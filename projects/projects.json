@@ -1,0 +1,87 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Tiny Tales: The Lifetime Baby Archive",
+      "description": "The Digital Baby Diary is the ultimate website template to help you perfectly preserve your precious memories. With a beautifully crafted design, secure layout, and a structured timeline, this product is the key to keeping your favorite moments safe forever.",
+      "link": "https://bayezaarch-7cx7fyrv.manus.space",
+      "images": [
+        "https://files.manuscdn.com/user_upload_by_module/session_file/310519663651640858/KMFZpymAutTMARfP.webp",
+        "https://files.manuscdn.com/user_upload_by_module/session_file/310519663651640858/STbchwOKVplNMvUo.webp",
+        "https://files.manuscdn.com/user_upload_by_module/session_file/310519663651640858/qbvZbJtFCknxOqZj.webp",
+        "https://files.manuscdn.com/user_upload_by_module/session_file/310519663651640858/gyhvnSgRhkoxfdrl.webp"
+      ],
+      "tags": ["Baby Archive", "Memory Storage", "Digital Diary"],
+      "is_latest": false
+    },
+    {
+      "id": 6,
+      "title": "AI WhatsApp Automation (Fijian Client)",
+      "description": "The ultimate 2026 WhatsApp API Mega Guide. A full-fledged 24/7 AI customer service system that automates orders, processes voice/image messages, and tracks IDs. Built for high-value business outcomes.",
+      "video_url": "https://www.image2url.com/r2/default/videos/1778234182274-27bf1cc3-fc30-483b-b4ec-0ed606effe74.mov",
+      "link": "https://connectwithbayezid.blogspot.com/2026/05/the-ultimate-2026-whatsapp-api_8.html?m=1",
+      "audio_links": [
+        { "title": "Mega Guide Part 1", "url": "https://raw.githubusercontent.com/Sayadbayezid/WhatsappApi-workflow-Connect-with-Bayezid-/main/whatsapp_api_mega_guide_part1.mp3" },
+        { "title": "Mega Guide Part 2", "url": "https://raw.githubusercontent.com/Sayadbayezid/WhatsappApi-workflow-Connect-with-Bayezid-/main/whatsapp_api_mega_guide_part2.mp3" }
+      ],
+      "tags": ["AI Chatbot", "WhatsApp API", "Business Automation"],
+      "is_latest": false
+    },
+    {
+      "id": 2,
+      "title": "Connect with Bayezid",
+      "description": "Digital brand and personal portfolio platform. Official website and business hub.",
+      "link": "https://connectbayezid-8dcdz46v.manus.space",
+      "tags": ["Web Design", "Branding"],
+      "is_latest": false
+    },
+    {
+      "id": 3,
+      "title": "GenZ Frontier",
+      "description": "Digital newsportal for modern generation insights and tech trends.",
+      "link": "https://www.genzfrontir.com",
+      "tags": ["Content", "News"],
+      "is_latest": false
+    },
+    {
+      "id": 4,
+      "title": "SmartGen Tools - 40+ Free Utilities",
+      "description": "The ultimate master guide to SmartGen Tools: 40+ free utilities for professionals. A comprehensive suite including QR code generators, image optimizers, and productivity boosters. Built for speed, privacy, and full customization to empower your digital workflow.",
+      "link": "https://qr.genzfrontir.com/",
+      "tags": ["Utility", "Web Tool", "AI Integration"],
+      "key_features": [
+        "40+ Professional Utility Tools",
+        "Advanced QR Code Generator",
+        "Image Optimization & Conversion",
+        "Privacy-focused Data Processing",
+        "Seamless User Experience",
+        "Full Customization Options"
+      ],
+      "is_latest": false
+    },
+    {
+      "id": 5,
+      "title": "Premium Full-Stack Web Project",
+      "description": "A comprehensive full-stack web development project showcasing modern UI/UX design principles, responsive layouts, and premium styling. This project demonstrates meticulous digital visual craftsmanship with smooth animations, hover effects, and a professional color scheme inspired by industry leaders like Trexalab.",
+      "video_url": "./assets/videos/latest_project.mp4",
+      "tags": ["Full-Stack Web", "UI/UX Design", "Premium Styling"],
+      "is_latest": false
+    },
+    {
+      "id": 7,
+      "title": "Musfiq R. Farhan Official Portfolio",
+      "description": "A premium, cinematic portfolio for Bangladeshi superstar actor Musfiq R. Farhan. Features a luxury editorial bio, Netflix-style media carousels, and a real-time Firebase-powered fan wall. Developed by Sayad Md Bayezid Hosan.",
+      "video_url": "https://www.image2url.com/r2/default/videos/1778872668061-ec50245b-b5d4-4614-b7b7-3b4d1795ed94.mov",
+      "link": "https://www.musfiqrfarhan.blog",
+      "tags": ["Cinematic UI", "Firebase", "Actor Portfolio", "Luxury Design"],
+      "key_features": [
+        "Cinematic Hero Section with dynamic dark gradient",
+        "Netflix-Style Media Carousels for recent releases",
+        "Live Fan Wall powered by Google Firebase",
+        "Advanced SEO & Knowledge Graph Integration",
+        "Glassmorphic UI & Luxury Editorial Typography"
+      ],
+      "is_latest": true
+    }
+  ]
+}
