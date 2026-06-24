@@ -1,6 +1,15 @@
 {
   "blogs": [
     {
+      "id": 1779147363,
+      "title": "🚀 The Ultimate Master Guide to SmartGen Tools: 40+ Free Utilities for Professionals",
+      "excerpt": "*Written by Sayad Md Bayezid Hosan | Founder & Lead Consultant, Connect With Bayezid | A GenZ Frontier Initiative*",
+      "category": "General",
+      "date": "2026-06-24",
+      "image": "https://i.postimg.cc/8zs6Nvj1/27029CEE-5CD8-43AE-85D0-51C18A4BF0C8-Original.png",
+      "slug": "the-ultimate-master-guide-to-smartgen-tools-40-free-utilities-for-professionals"
+    },
+    {
       "id": 1778563508,
       "title": "Data Analytics for Beginners: Mastering Google Analytics 4 & Looker Studio",
       "excerpt": "A beginner's masterclass in data analytics. Learn to master Google Analytics 4 (GA4) and build powerful dashboards with Looker Studio in 2026.",
@@ -53,15 +62,6 @@
       "date": "2026-06-14",
       "image": "https://i.postimg.cc/8zs6Nvj1/27029CEE-5CD8-43AE-85D0-51C18A4BF0C8-Original.png",
       "slug": "linkedin-growth-guide"
-    },
-    {
-      "id": 1779147363,
-      "title": "🚀 The Ultimate Master Guide to SmartGen Tools: 40+ Free Utilities for Professionals",
-      "excerpt": "*Written by Sayad Md Bayezid Hosan | Founder & Lead Consultant, Connect With Bayezid | A GenZ Frontier Initiative*",
-      "category": "General",
-      "date": "2026-06-14",
-      "image": "https://i.postimg.cc/8zs6Nvj1/27029CEE-5CD8-43AE-85D0-51C18A4BF0C8-Original.png",
-      "slug": "the-ultimate-master-guide-to-smartgen-tools-40-free-utilities-for-professionals"
     },
     {
       "id": 1781440253,
